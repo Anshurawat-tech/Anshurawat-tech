@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Anshul%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Software%20Developer%20in%20Progress&descAlignY=58" alt="Anshul Rawat profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=180&section=header&text=Anshul%20Rawat&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Software%20Developer%20in%20Progress&descAlignY=58" alt="Anshul Rawat animated profile banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=650&lines=Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Secure+Software;Learning+in+public+%E2%80%A2+Building+practical+projects;Future+AI%2FML+software+developer" alt="Animated typing introduction" />
 
 # Hi, I'm Anshul Rawat 👋
 
@@ -63,6 +65,10 @@ Daily Python practice covering data structures, algorithms, bit manipulation, ma
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anshurawat-tech&show_icons=true&hide_border=true&theme=transparent" alt="Anshul's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshurawat-tech&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshurawat-tech&bg_color=00000000&color=0ea5e9&line=7c3aed&point=0ea5e9&area=true&hide_border=true" alt="Animated GitHub contribution activity graph" width="100%" />
 </div>
 
 ## Let's connect
